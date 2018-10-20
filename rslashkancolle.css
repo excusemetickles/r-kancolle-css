@@ -460,7 +460,7 @@ display:inline-block;
 	max-width: 310px;
 	max-height: 800px;
 	width: 310px;
-	height: 394px; /*Tweak according to desired image height*/
+	height: 424px; /*Tweak according to desired image height*/
 	background: transparent url('%%ship1%%') no-repeat 0 0;
 	font-size: 0px;
 }
@@ -489,7 +489,7 @@ display:inline-block;
 	}
 /* ship2 */
 
-.side .usertext a[href$='png'],.side .usertext a[href$='jpg'],.side .usertext a[href$='jpeg'],.side .usertext a[href$='gif'],.side .usertext a[href$='#ship2']{position:static;display:block;margin:0 -10px 15px -15px;min-width:300px;min-height:70px;max-width:310px;max-height:800px;width:310px;height:437px;background:transparent url(%%ship2%%) no-repeat 0 0;font-size:0}.side .usertext a[href$='png']:hover:after,.side .usertext a[href$='jpg']:hover:after,.side .usertext a[href$='jpeg']:hover:after,.side .usertext a[href$='gif']:hover:after,.side .usertext a[href$='#ship2']:hover:after{content:attr(title) "Click here for source";position:relative;top:auto;bottom:-20px;left:50%;display:block;margin:0 -105px;padding:10px 5px;max-width:200px;border:1px solid #d2d2d2;border-radius:2px;background:#fbfbfb;font-weight:700;font-size:12px;text-align:center;opacity:.8}
+.side .usertext a[href$='png'],.side .usertext a[href$='jpg'],.side .usertext a[href$='jpeg'],.side .usertext a[href$='gif'],.side .usertext a[href$='#ship2']{position:static;display:block;margin:0 -10px 15px -15px;min-width:300px;min-height:70px;max-width:310px;max-height:800px;width:310px;height:442px;background:transparent url(%%ship2%%) no-repeat 0 0;font-size:0}.side .usertext a[href$='png']:hover:after,.side .usertext a[href$='jpg']:hover:after,.side .usertext a[href$='jpeg']:hover:after,.side .usertext a[href$='gif']:hover:after,.side .usertext a[href$='#ship2']:hover:after{content:attr(title) "Click here for source";position:relative;top:auto;bottom:-20px;left:50%;display:block;margin:0 -105px;padding:10px 5px;max-width:200px;border:1px solid #d2d2d2;border-radius:2px;background:#fbfbfb;font-weight:700;font-size:12px;text-align:center;opacity:.8}
 
 /* ship3 */
 
