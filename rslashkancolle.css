@@ -29,6 +29,11 @@ body{position:relative;background-color:#eeeeec;color:#00000a;font-weight:normal
 /* [ C ]. Modules for specific Customization ....... */
 /*  visit http://www.reddit.com/r/mindashq/wiki/modules for ready to use add-on modules */
 
+/* FIX: on wiki, allow horizontal scroll when contents/tables are too wide */
+.wiki-page .wiki-page-content .md.wiki {
+	overflow-x: auto;
+}
+
 
 /* -- #M1 - Header Image ---- */
 
