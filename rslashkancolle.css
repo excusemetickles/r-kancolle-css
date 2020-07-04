@@ -547,53 +547,54 @@ div.side div.spacer:nth-of-type(1):before{
 
 /* -- #M11 - Comment Faces ---- */
 
-a[href="#akagi"],a[href="#aki"],a[href="#dai"],a[href="#dead"],a[href="#den"],a[href="#goya1"],a[href="#goya2"],a[href="#goya3"],a[href="#hachi1"],a[href="#hatsu"],a[href="#hiei1"],a[href="#hiei2"],a[href="#hiei3"],a[href="#iku1"],a[href="#iku2"],a[href="#iku3"],a[href="#imuya"],a[href="#jintsuu"],a[href="#junyou"],a[href="#kaga"],a[href="#kaga2"],a[href="#kongou"],a[href="#lessbait"],a[href="#maruyu"],a[href="#naka"],a[href="#no"],a[href="#okay"],a[href="#ooyodo"],a[href="#patches"],a[href="#pjsalt"],a[href="#pot"],a[href="#sendai"],a[href="#shima"],a[href="#shioi"],a[href="#shioi2"],a[href="#sleep"],a[href="#sleep2"],a[href="#ttk"],a[href="#ura"],a[href="#yari"],a[href="#yayoi"],a[href="#yes"],a[href="#yuki"],a[href="#yuudachi1"],a[href="#yuudachi2"]{background:url(%%Comment-Faces%%) no-repeat;display:inline-block;height:5780px;width:120px;}
+a[href="#junyou"],a[href="#akagi1"],a[href="#akagi2"],a[href="#aki"],a[href="#colo"],a[href="#dai"],a[href="#float1"],a[href="#float2"],a[href="#goya"],a[href="#hachi"],a[href="#hatsu"],a[href="#hiei1"],a[href="#hiei2"],a[href="#iku1"],a[href="#iku2"],a[href="#imuya"],a[href="#jervis1"],a[href="#jervis2"],a[href="#jintsuu"],a[href="#kaga"],a[href="#akongou"],a[href="#lessbait"],a[href="#maruyu"],a[href="#naka"],a[href="#nelson"],a[href="#no"],a[href="#okay"],a[href="#ooyodo"],a[href="#patches"],a[href="#pjsalt"],a[href="#apot"],a[href="#sendai"],a[href="#shima"],a[href="#sleep"],a[href="#swan"],a[href="#tash"],a[href="#ttk"],a[href="#yamagumo"],a[href="#yamato"],a[href="#yari"],a[href="#yayoi"],a[href="#yes"],a[href="#yuki"],a[href="#yuudachi"],a[href="#zuihou"]{background:url(%%Comment-Faces%%) no-repeat;display:inline-block;height:120px;width:5400px;}
 
-a[href="#akagi"]{width:120px;height:120px;background-position: 0 0}
-a[href="#aki"]{width:120px;height:120px;background-position: 0 -120px}
-a[href="#dai"]{width:120px;height:111px;background-position: 0 -240px}
-a[href="#dead"]{width:120px;height:154px;background-position: 0 -351px}
-a[href="#den"]{width:120px;height:157px;background-position: 0 -505px}
-a[href="#goya1"]{width:120px;height:120px;background-position: 0 -662px}
-a[href="#goya2"]{width:120px;height:120px;background-position: 0 -782px}
-a[href="#goya3"]{width:120px;height:120px;background-position: 0 -902px}
-a[href="#hachi1"]{width:120px;height:120px;background-position: 0 -1022px}
-a[href="#hatsu"]{width:120px;height:120px;background-position: 0 -1142px}
-a[href="#hiei1"]{width:120px;height:120px;background-position: 0 -1262px}
-a[href="#hiei2"]{width:120px;height:120px;background-position: 0 -1382px}
-a[href="#hiei3"]{width:120px;height:120px;background-position: 0 -1502px}
-a[href="#iku1"]{width:120px;height:120px;background-position: 0 -1622px}
-a[href="#iku2"]{width:120px;height:120px;background-position: 0 -1742px}
-a[href="#iku3"]{width:120px;height:120px;background-position: 0 -1862px}
-a[href="#imuya"]{width:120px;height:120px;background-position: 0 -1982px}
-a[href="#jintsuu"]{width:120px;height:120px;background-position: 0 -2102px}
-a[href="#junyou"]{width:120px;height:120px;background-position: 0 -2222px}
-a[href="#kaga"]{width:120px;height:139px;background-position: 0 -2342px}
-a[href="#kaga2"]{width:120px;height:150px;background-position: 0 -2481px}
-a[href="#kongou"]{width:120px;height:97px;background-position: 0 -2631px}
-a[href="#lessbait"]{width:120px;height:125px;background-position: 0 -2728px}
-a[href="#maruyu"]{width:120px;height:120px;background-position: 0 -2853px}
-a[href="#naka"]{width:120px;height:120px;background-position: 0 -2973px}
-a[href="#no"]{width:120px;height:184px;background-position: 0 -3093px}
-a[href="#okay"]{width:120px;height:137px;background-position: 0 -3277px}
-a[href="#ooyodo"]{width:120px;height:120px;background-position: 0 -3414px}
-a[href="#patches"]{width:120px;height:110px;background-position: 0 -3534px}
-a[href="#pjsalt"]{width:120px;height:198px;background-position: 0 -3644px}
-a[href="#pot"]{width:120px;height:158px;background-position: 0 -3842px}
-a[href="#sendai"]{width:120px;height:120px;background-position: 0 -4000px}
-a[href="#shima"]{width:120px;height:120px;background-position: 0 -4120px}
-a[href="#shioi"]{width:120px;height:120px;background-position: 0 -4240px}
-a[href="#shioi2"]{width:120px;height:120px;background-position: 0 -4360px}
-a[href="#sleep"]{width:120px;height:147px;background-position: 0 -4480px}
-a[href="#sleep2"]{width:120px;height:111px;background-position: 0 -4627px}
-a[href="#ttk"]{width:120px;height:108px;background-position: 0 -4738px}
-a[href="#ura"]{width:120px;height:120px;background-position: 0 -4846px}
-a[href="#yari"]{width:120px;height:143px;background-position: 0 -4966px}
-a[href="#yayoi"]{width:120px;height:120px;background-position: 0 -5109px}
-a[href="#yes"]{width:120px;height:169px;background-position: 0 -5229px}
-a[href="#yuki"]{width:120px;height:120px;background-position: 0 -5398px}
-a[href="#yuudachi1"]{width:120px;height:118px;background-position: 0 -5518px}
-a[href="#yuudachi2"]{width:120px;height:144px;background-position: 0 -5636px}
+a[href="#junyou"]{width:120px;height:120px;background-position: 0 0}
+a[href="#akagi1"]{width:120px;height:120px;background-position: -120px 0}
+a[href="#akagi2"]{width:120px;height:120px;background-position: -240px 0}
+a[href="#aki"]{width:120px;height:120px;background-position: -360px 0}
+a[href="#colo"]{width:120px;height:120px;background-position: -480px 0}
+a[href="#dai"]{width:120px;height:120px;background-position: -600px 0}
+a[href="#float1"]{width:120px;height:120px;background-position: -720px 0}
+a[href="#float2"]{width:120px;height:120px;background-position: -840px 0}
+a[href="#goya"]{width:120px;height:120px;background-position: -960px 0}
+a[href="#hachi"]{width:120px;height:120px;background-position: -1080px 0}
+a[href="#hatsu"]{width:120px;height:120px;background-position: -1200px 0}
+a[href="#hiei1"]{width:120px;height:120px;background-position: -1320px 0}
+a[href="#hiei2"]{width:120px;height:120px;background-position: -1440px 0}
+a[href="#iku1"]{width:120px;height:120px;background-position: -1560px 0}
+a[href="#iku2"]{width:120px;height:120px;background-position: -1680px 0}
+a[href="#imuya"]{width:120px;height:120px;background-position: -1800px 0}
+a[href="#jervis1"]{width:120px;height:120px;background-position: -1920px 0}
+a[href="#jervis2"]{width:120px;height:120px;background-position: -2040px 0}
+a[href="#jintsuu"]{width:120px;height:120px;background-position: -2160px 0}
+a[href="#kaga"]{width:120px;height:120px;background-position: -2280px 0}
+a[href="#kongou"]{width:120px;height:120px;background-position: -2400px 0}
+a[href="#lessbait"]{width:120px;height:120px;background-position: -2520px 0}
+a[href="#maruyu"]{width:120px;height:120px;background-position: -2640px 0}
+a[href="#naka"]{width:120px;height:120px;background-position: -2760px 0}
+a[href="#nelson"]{width:120px;height:120px;background-position: -2880px 0}
+a[href="#no"]{width:120px;height:120px;background-position: -3000px 0}
+a[href="#okay"]{width:120px;height:120px;background-position: -3120px 0}
+a[href="#ooyodo"]{width:120px;height:120px;background-position: -3240px 0}
+a[href="#patches"]{width:120px;height:120px;background-position: -3360px 0}
+a[href="#pjsalt"]{width:120px;height:120px;background-position: -3480px 0}
+a[href="#pot"]{width:120px;height:120px;background-position: -3600px 0}
+a[href="#sendai"]{width:120px;height:120px;background-position: -3720px 0}
+a[href="#shima"]{width:120px;height:120px;background-position: -3840px 0}
+a[href="#sleep"]{width:120px;height:120px;background-position: -3960px 0}
+a[href="#swan"]{width:120px;height:120px;background-position: -4080px 0}
+a[href="#tash"]{width:120px;height:120px;background-position: -4200px 0}
+a[href="#ttk"]{width:120px;height:120px;background-position: -4320px 0}
+a[href="#yamagumo"]{width:120px;height:120px;background-position: -4440px 0}
+a[href="#yamato"]{width:120px;height:120px;background-position: -4560px 0}
+a[href="#yari"]{width:120px;height:120px;background-position: -4680px 0}
+a[href="#yayoi"]{width:120px;height:120px;background-position: -4800px 0}
+a[href="#yes"]{width:120px;height:120px;background-position: -4920px 0}
+a[href="#yuki"]{width:120px;height:120px;background-position: -5040px 0}
+a[href="#yuudachi"]{width:120px;height:120px;background-position: -5160px 0}
+a[href="#zuihou"]{width:120px;height:120px;background-position: -5280px 0}
+
 
 a[href="#kagadrink"],a[href="#pringles"],a[href="#smug"],a[href="#danke"],a[href="#dankei"],a[href="#nuinui"],a[href="#youropinion"],a[href="#warspfft"],a[href="#fukouda"],a[href="#wolfvictory"],a[href="#wolfeeeh"],a[href="#hoppout"],a[href="#popcorn"]{
 display: inline-block;
