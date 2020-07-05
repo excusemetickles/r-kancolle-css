@@ -595,43 +595,37 @@ a[href="#yuki"]{width:120px;height:120px;background-position: -5040px 0}
 a[href="#yuudachi"]{width:120px;height:120px;background-position: -5160px 0}
 a[href="#zuihou"]{width:120px;height:120px;background-position: -5280px 0}
 
+/* Comment Faces #2 */
 
-a[href="#kagadrink"],a[href="#pringles"],a[href="#smug"],a[href="#danke"],a[href="#dankei"],a[href="#nuinui"],a[href="#youropinion"],a[href="#warspfft"],a[href="#fukouda"],a[href="#wolfvictory"],a[href="#wolfeeeh"],a[href="#hoppout"],a[href="#popcorn"]{
-display: inline-block;
-cursor: pointer;
-}  
+a[href="#abureeee"],a[href="#akiwow"],a[href="#amagi"],a[href="#ohisee"],a[href="#ashishock"],a[href="#danke"],a[href="#dankei"],a[href="#fml"],a[href="#fukouda"],a[href="#grafcoffee"],a[href="#hoppou"],a[href="#janus"],a[href="#kagadrink"],a[href="#kasumi"],a[href="#ktkmsucc"],a[href="#laughingdragons"],a[href="#nuinui"],a[href="#ohno"],a[href="#popcorn"],a[href="#pringles"],a[href="#shoushou"],a[href="#smugyodo"],a[href="#tanaka1"],a[href="#tanaka2"],a[href="#warspfft"],a[href="#youropinion"],a[href="#yuucry"]{background:url(%%Comment-Faces2%%) no-repeat;display:inline-block;height:120px;width:3240px;}
 
-a[href="#kagadrink"]{width:120px;height:120px;background:url(%%Comment-Faces2%%) no-repeat 0 0}
-a[href="#pringles"]{width:120px;height:120px;background:url(%%Comment-Faces2%%) no-repeat -120px 0}
-a[href="#smug"]{width:120px;height:120px;background:url(%%Comment-Faces2%%) no-repeat -240px 0}
-a[href="#danke"]{width:190px;height:150px;background:url(%%Comment-Faces2%%) no-repeat -360px 0}
-a[href="#dankei"]{width:120px;height:173px;background:url(%%Comment-Faces2%%) no-repeat -550px 0}
-[href="#nuinui"]{width:120px;height:121px;background:url(%%Comment-Faces2%%) no-repeat -670px 0}
-[href="#youropinion"]{width:150px;height:168px;background:url(%%Comment-Faces2%%) no-repeat -790px 0}
-[href="#warspfft"]{width:150px;height:122px;background:url(%%Comment-Faces2%%) no-repeat -940px 0}
-[href="#fukouda"]{width:150px;height:111px;background:url(%%Comment-Faces2%%) no-repeat -1090px 0}
-[href="#wolfvictory"]{width:150px;height:92px;background:url(%%Comment-Faces2%%) no-repeat -1240px 0}
-[href="#wolfeeeh"]{width:150px;height:165px;background:url(%%Comment-Faces2%%) no-repeat -1390px 0}
-[href="#hoppout"]{width:120px;height:90px;background:url(%%Comment-Faces2%%) no-repeat -1540px 0}
-[href="#popcorn"]{width:150px;height:150px;background:url(%%Comment-Faces2%%) no-repeat -1660px 0}
-
-a[href="#akiwow"],a[href="#fml"],a[href="#grafcoffee"],a[href="#laughingdragons"],a[href="#ohno"],a[href="#postevent"],a[href="#satsuwat"],a[href="#shoushou"],a[href="#tanaka1"],a[href="#tanaka2"],a[href="#smugyodo"],a[href="#yuucry"],a[href="#zannen"],a[href="#abureeee"],a[href="#tsunship"],a[href="#Dogchi"],a[href="#ktkmsucc"]{display:inline-block;cursor:pointer}
-a[href="#akiwow"]{width:236px;height:125px;background:url(%%Comment-Faces3%%) no-repeat 0 0}
-a[href="#fml"]{width:175px;height:115px;background:url(%%Comment-Faces3%%) no-repeat -236px 0}
-a[href="#grafcoffee"]{width:125px;height:153px;background:url(%%Comment-Faces3%%) no-repeat -411px 0}
-a[href="#laughingdragons"]{width:125px;height:117px;background:url(%%Comment-Faces3%%) no-repeat -536px 0}
-a[href="#ohno"]{width:125px;height:107px;background:url(%%Comment-Faces3%%) no-repeat -661px 0}
-a[href="#satsuwat"]{width:125px;height:122px;background:url(%%Comment-Faces3%%) no-repeat -1081px 0}
-a[href="#shoushou"]{width:125px;height:125px;background:url(%%Comment-Faces3%%) no-repeat -1206px 0}
-a[href="#tanaka1"]{width:125px;height:143px;background:url(%%Comment-Faces3%%) no-repeat -1331px 0}
-a[href="#tanaka2"]{width:125px;height:117px;background:url(%%Comment-Faces3%%) no-repeat -1456px 0}
-a[href="#smugyodo"]{width:125px;height:127px;background:url(%%Comment-Faces3%%) no-repeat -1581px 0}
-a[href="#yuucry"]{width:125px;height:115px;background:url(%%Comment-Faces3%%) no-repeat -1706px 0}
-a[href="#zannen"]{width:183px;height:125px;background:url(%%Comment-Faces3%%) no-repeat -1831px 0}
-a[href="#tsunship"]{width:128px;height:128px;background:url(%%Comment-Faces3%%) no-repeat -2014px 0}
-a[href="#abureeee"]{width:128px;height:128px;background:url(%%Comment-Faces3%%) no-repeat -2142px 0}
-a[href="#Dogchi"]{width:32px;height:32px;background:url(%%Comment-Faces3%%) no-repeat -2270px 0}
-a[href="#ktkmsucc"]{width:120px;height:120px;background:url(%%Comment-Faces3%%) no-repeat -2302px 0}
+a[href="#abureeee"]{width:120px;height:120px;background-position: 0 0}
+a[href="#akiwow"]{width:120px;height:120px;background-position: -120px 0}
+a[href="#amagi"]{width:120px;height:120px;background-position: -240px 0}
+a[href="#ohisee"]{width:120px;height:120px;background-position: -360px 0}
+a[href="#ashishock"]{width:120px;height:120px;background-position: -480px 0}
+a[href="#danke"]{width:120px;height:120px;background-position: -600px 0}
+a[href="#dankei"]{width:120px;height:120px;background-position: -720px 0}
+a[href="#fml"]{width:120px;height:120px;background-position: -840px 0}
+a[href="#fukouda"]{width:120px;height:120px;background-position: -960px 0}
+a[href="#grafcoffee"]{width:120px;height:120px;background-position: -1080px 0}
+a[href="#hoppou"]{width:120px;height:120px;background-position: -1200px 0}
+a[href="#janus"]{width:120px;height:120px;background-position: -1320px 0}
+a[href="#kagadrink"]{width:120px;height:120px;background-position: -1440px 0}
+a[href="#kasumi"]{width:120px;height:120px;background-position: -1560px 0}
+a[href="#ktkmsucc"]{width:120px;height:120px;background-position: -1680px 0}
+a[href="#laughingdragons"]{width:120px;height:120px;background-position: -1800px 0}
+a[href="#nuinui"]{width:120px;height:120px;background-position: -1920px 0}
+a[href="#ohno"]{width:120px;height:120px;background-position: -2040px 0}
+a[href="#popcorn"]{width:120px;height:120px;background-position: -2160px 0}
+a[href="#pringles"]{width:120px;height:120px;background-position: -2280px 0}
+a[href="#shoushou"]{width:120px;height:120px;background-position: -2400px 0}
+a[href="#smugyodo"]{width:120px;height:120px;background-position: -2520px 0}
+a[href="#tanaka1"]{width:120px;height:120px;background-position: -2640px 0}
+a[href="#tanaka2"]{width:120px;height:120px;background-position: -2760px 0}
+a[href="#warspfft"]{width:120px;height:120px;background-position: -2880px 0}
+a[href="#youropinion"]{width:120px;height:120px;background-position: -3000px 0}
+a[href="#yuucry"]{width:120px;height:120px;background-position: -3120px 0}
 
 
 /* bubbles_gif */
